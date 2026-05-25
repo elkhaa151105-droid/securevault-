@@ -280,7 +280,7 @@ Link YouTube:
 https://youtube.com/
 ```
 
-Tambahkan link demo atau presentasi project pada bagian di atas.
+Link YT menyusul karena masih dalam tahap edit video
 
 ---
 
