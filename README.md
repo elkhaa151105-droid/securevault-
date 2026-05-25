@@ -277,10 +277,10 @@ Project ini dibuat untuk kebutuhan pembelajaran, penelitian, atau pengembangan s
 Link YouTube:
 
 ```text
-https://youtube.com/
+https://youtu.be/UAgQRgRZ1Bc
 ```
 
-Link YT menyusul karena masih dalam tahap edit video
+Video hanya bisa diakses oleh orang yang mempunyai Link ini 
 
 ---
 
